@@ -1,2 +1,2 @@
 # JS-Labwork-1
-Here is the [Live Demo](https://elzsa.github.io/Elsa-HTML-CSS-Lab/)
+Here is the [Live Demo](https://elzsa.github.io/JS-Labwork-1/)
