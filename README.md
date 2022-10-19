@@ -1,2 +1,0 @@
-# JS-Labwork-1
-
