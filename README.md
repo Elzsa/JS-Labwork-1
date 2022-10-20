@@ -1,2 +1,2 @@
 # JS-Labwork-1
-[Web page]() of the JavaScript Labwork
+[Web page](https://elzsa.github.io/JS-Labwork-1/) of the JavaScript Labwork
